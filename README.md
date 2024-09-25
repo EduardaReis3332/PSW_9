@@ -43,4 +43,9 @@ pip install django
 pip install pillow
 ```
 
+## Rodar o Servidor
+```bash
+python manage.py runserver
+```
+
 Com isso, o ambiente está pronto para iniciar o desenvolvimento com Django!
